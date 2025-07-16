@@ -1,0 +1,24 @@
+
+body {
+  background: #1b0034;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+.roleta {
+  font-size: 60px;
+  background: #37004d;
+  padding: 20px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 10px;
+}
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background: #6c00a1;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+}
